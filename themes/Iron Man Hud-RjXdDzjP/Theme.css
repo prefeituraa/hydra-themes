@@ -108,7 +108,9 @@
   }
 
 /* Toast */
-  .toast {}
+  .toast {
+    background: rgba(0, 0, 0, 0.322)
+  }
 
 /*Transparencia em algumas caixas*/
   .text-field-container__text-field--dark,
